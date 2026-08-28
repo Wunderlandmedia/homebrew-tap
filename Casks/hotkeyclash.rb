@@ -1,6 +1,6 @@
 cask "hotkeyclash" do
-  version "0.6.0"
-  sha256 "89f2a367951f817029b71a64a67f91f6fa6e616da919708a8cdbc17f1fb9750b"
+  version "0.8.0"
+  sha256 "67eee2a607674122eb075931ce513edb25c163db35ad15f235b942449888d34b"
 
   url "https://github.com/Wunderlandmedia/HotkeyClash/releases/download/v#{version}/HotkeyClash-#{version}.dmg",
       verified: "github.com/Wunderlandmedia/HotkeyClash/"
